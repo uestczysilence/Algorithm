@@ -4,4 +4,4 @@ Tag list (ref Codeforeses):
 - constructive
 - DFS
 - DP
-
+- math
